@@ -32,7 +32,7 @@ import Foundation
 /// 答えはただ1つのみ存在します。
 
 enum TwoSum {
-    static func execute(_ x: Int) -> Int {
-        fatalError("SquareRoot.execute is unimplemented.")
+    static func execute(nums: [Int], target: Int) -> [Int] {
+        fatalError("TwoSum.execute is unimplemented.")
     }
 }
