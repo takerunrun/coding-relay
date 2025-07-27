@@ -22,7 +22,7 @@ package com.example.codingrelay
 /// 0 <= x <= 2³¹ - 1
 
 object SquareRoot {
-    fun execute(x: Number): Number {
+    fun execute(x: Int): Int {
         return 0
     }
 }
