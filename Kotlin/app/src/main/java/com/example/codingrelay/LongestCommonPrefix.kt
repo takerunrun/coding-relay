@@ -17,7 +17,7 @@ package com.example.codingrelay
 /// 0 <= strs[i].length <= 200
 /// strs[i] は（空でない場合）小文字の英字のみで構成されています。
 
-class LongestCommonPrefix {
+object LongestCommonPrefix {
     fun execute(strs: List<String>): String {
         return ""
     }
