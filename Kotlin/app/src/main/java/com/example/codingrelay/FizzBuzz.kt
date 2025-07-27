@@ -23,7 +23,7 @@ package com.example.codingrelay
 /// 1 <= n <= 10⁴
 
 object FizzBuzz {
-    fun execute(n: Number): List<String> {
+    fun execute(n: Int): List<String> {
         return listOf("")
     }
 }
