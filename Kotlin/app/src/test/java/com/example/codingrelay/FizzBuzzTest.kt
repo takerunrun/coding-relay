@@ -26,7 +26,7 @@ class FizzBuzzTest(
 
     @Test
     fun test() {
-        val actual = FizzBuzz().execute(n)
+        val actual = FizzBuzz.execute(n)
         assertEquals(expected, actual)
     }
 }

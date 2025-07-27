@@ -22,7 +22,7 @@ package com.example.codingrelay
 /// 制約:
 /// 1 <= n <= 10⁴
 
-class FizzBuzz {
+object FizzBuzz {
     fun execute(n: Number): List<String> {
         return listOf("")
     }
